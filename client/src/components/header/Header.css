@@ -1,0 +1,78 @@
+.sicon {
+    font-size: 40px; 
+    margin-left: 20px;
+  }
+  .icon{
+    margin-left: 20px;
+    margin-top: 7px;
+    font-size: 25px;
+  }
+  .rightpart{
+    
+  }
+  .logo {
+    width: 45px; 
+    height: 45px; 
+    border-radius: 50%;
+    margin-right: 10px; 
+  }
+.image-container{
+    background-image: url("../../images/homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust as needed */
+    
+   }  
+  .navbar{
+    opacity: 0.75;
+  }
+  .text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+    margin: 0;
+    color: aliceblue;
+  }
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .circular-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    clip-path: circle(50%);
+  }
+  
+
+
+  .horizontal-card {
+    display: flex;
+  }
+  
+  .img-container {
+    width: 100px;
+    height: 100px;
+    /* padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px; */
+    margin-bottom: 20px; 
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .cir-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* padding-top: 15px; */
+  }
+  
